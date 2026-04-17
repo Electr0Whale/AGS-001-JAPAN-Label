@@ -38,6 +38,7 @@ Whether you are reshelling your GBA SP or restoring a heavily worn original labe
 3. **打印建议**：
     * 为了达到最接近原厂的效果，建议使用**拉丝银或哑银 PET 不干胶贴纸**进行打印。
     * 表面建议覆**哑光膜**（消光膜），以增加耐磨性并还原原装标签的触感。
+    * 尺寸为72.6x25.1mm
 
 ### [English]
 1. **Install Fonts**: Before opening the PSD file, please install all fonts from the `Fonts` folder to your OS to prevent text rendering issues.
